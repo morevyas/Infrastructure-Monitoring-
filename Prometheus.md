@@ -52,5 +52,4 @@ It was originally developed at SoundCloud in 2012 and has since become widely ad
 <p>Most Prometheus components are written in <strong>Go</strong>, which makes them lightweight, portable, and easy to deploy as standalone static binaries.</p>
 <h3 id="architecture">Architecture</h3>
 <p><img src="https://prometheus.io/assets/docs/architecture.svg" alt="Prometheus architecture"></p>
-<h3 id="how-to-work--">How to work :-</h3>
 
